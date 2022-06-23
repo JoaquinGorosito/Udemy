@@ -1,0 +1,2 @@
+// "start": "webpack serve --config webpack.config.js --open --port=8080"
+se agrega el --open para que se abra automaticamente
